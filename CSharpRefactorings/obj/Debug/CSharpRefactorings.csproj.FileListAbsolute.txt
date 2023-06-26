@@ -1,0 +1,6 @@
+D:\UCAB\Desarrollo Software\Refactorizacion\Refactorings\C#\CSharpRefactorings\bin\Debug\CSharpRefactorings.dll
+D:\UCAB\Desarrollo Software\Refactorizacion\Refactorings\C#\CSharpRefactorings\bin\Debug\CSharpRefactorings.pdb
+D:\UCAB\Desarrollo Software\Refactorizacion\Refactorings\C#\CSharpRefactorings\obj\Debug\CSharpRefactorings.csproj.AssemblyReference.cache
+D:\UCAB\Desarrollo Software\Refactorizacion\Refactorings\C#\CSharpRefactorings\obj\Debug\CSharpRefactorings.csproj.CoreCompileInputs.cache
+D:\UCAB\Desarrollo Software\Refactorizacion\Refactorings\C#\CSharpRefactorings\obj\Debug\CSharpRefactorings.dll
+D:\UCAB\Desarrollo Software\Refactorizacion\Refactorings\C#\CSharpRefactorings\obj\Debug\CSharpRefactorings.pdb

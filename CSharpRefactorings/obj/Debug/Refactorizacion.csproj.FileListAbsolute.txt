@@ -1,0 +1,10 @@
+D:\UCAB\Desarrollo Software\Refactorizacion\Refactorings\C#\CSharpRefactorings\bin\Debug\CSharpRefactorings.dll
+D:\UCAB\Desarrollo Software\Refactorizacion\Refactorings\C#\CSharpRefactorings\bin\Debug\CSharpRefactorings.pdb
+D:\UCAB\Desarrollo Software\Refactorizacion\Refactorings\C#\CSharpRefactorings\obj\Debug\Refactorizacion.csproj.CoreCompileInputs.cache
+D:\UCAB\Desarrollo Software\Refactorizacion\Refactorings\C#\CSharpRefactorings\obj\Debug\CSharpRefactorings.dll
+D:\UCAB\Desarrollo Software\Refactorizacion\Refactorings\C#\CSharpRefactorings\obj\Debug\CSharpRefactorings.pdb
+D:\UCAB\Desarrollo Software\Semestre Mar - Jul 2023\Repositorios\RefactoringCSharp\CSharpRefactorings\bin\Debug\CSharpRefactorings.dll
+D:\UCAB\Desarrollo Software\Semestre Mar - Jul 2023\Repositorios\RefactoringCSharp\CSharpRefactorings\bin\Debug\CSharpRefactorings.pdb
+D:\UCAB\Desarrollo Software\Semestre Mar - Jul 2023\Repositorios\RefactoringCSharp\CSharpRefactorings\obj\Debug\Refactorizacion.csproj.CoreCompileInputs.cache
+D:\UCAB\Desarrollo Software\Semestre Mar - Jul 2023\Repositorios\RefactoringCSharp\CSharpRefactorings\obj\Debug\CSharpRefactorings.dll
+D:\UCAB\Desarrollo Software\Semestre Mar - Jul 2023\Repositorios\RefactoringCSharp\CSharpRefactorings\obj\Debug\CSharpRefactorings.pdb
